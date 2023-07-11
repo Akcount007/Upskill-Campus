@@ -1,1 +1,2 @@
-# projects
+#   Quality Prediction in Mining Process
+
